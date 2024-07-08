@@ -1,12 +1,14 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-PythonLMScript/HEAD)
+# Conda environment with environment.yml
 
-(https://mybinder.org/v2/gh/ZianneO/BSGP7030-PythonLMScript/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython/HEAD)
+
+(https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-(https://mybinder.org/v2/gh/ZianneO/BSGP7030-PythonLMScript/HEAD)
+(https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMPython/HEAD)
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
@@ -29,3 +31,4 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+# BSGP7030-LMP
