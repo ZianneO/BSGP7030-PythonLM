@@ -1,0 +1,14 @@
+# Moran 1997. Steady-state kinetics of single nucleotide insertion
+# A across from F in the template
+# data extracted from Hanes-Woolf plot
+# [S] in micromolar; V in %/min
+# Biochem 6761, MPF
+[S]	[S]/V
+1	0.49
+2	0.38
+5	0.43
+10	0.68
+20	0.86
+50	1.38
+100	2.80
+200	4.30
